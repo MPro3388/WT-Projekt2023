@@ -1,12 +1,13 @@
-# Book a DJ
+# Droneland
 
-Der Nutzer ist in der Lage, DJs für verschiedene Events wie 
-Club, Hochzeit, Radio, etc. zu buchen. Dabei kann
-der Nutzer die Genres auswählen und welche Gagen 
-er für den DJ erbringen kann. 
+Droneland bietet praktische Flugübungen für Fernpiloten,
+um sichere und gefahrlose Drohnenflüge zu gewährleisten.
 
-Voraussetzung dafür ist, dass die DJs sich regiestrieren
-müssen und ihre Angaben (Genres, Gagen, etc.) zu 
-veröffentlichen.
+Folgende Punkte werden hier dabei behandelt:
+
+- Gesetzeslage nach LFVO
+- Voraussetzungen zum Fernpiloten
+- Praktische Übungsmöglichkeiten für Flugmanöven
+- Umgang mit Drohnen nach CE-Klassifizierung
 
 Dieses WT-Projekt wird geführt von Marko Prodanovic
