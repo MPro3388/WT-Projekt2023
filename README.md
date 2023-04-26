@@ -7,7 +7,7 @@ Folgende Punkte werden hier dabei behandelt:
 
 - Gesetzeslage nach LFVO
 - Voraussetzungen zum Fernpiloten
-- Praktische Übungsmöglichkeiten für Flugmanöven
+- Praktische Übungsmöglichkeiten für Flugmanövern
 - Umgang mit Drohnen nach CE-Klassifizierung
 
 Dieses WT-Projekt wird geführt von Marko Prodanovic
