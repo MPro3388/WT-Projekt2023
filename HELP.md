@@ -1,3 +1,8 @@
+# Read Me First
+The following was discovered as part of building this project:
+
+* The original package name 'com.example.WT-Projekt2023' is invalid and this project uses 'com.example.WTProjekt2023' instead.
+
 # Getting Started
 
 ### Reference Documentation
